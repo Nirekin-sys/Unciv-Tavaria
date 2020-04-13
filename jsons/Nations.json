@@ -1,0 +1,30 @@
+[
+	{
+		"name": "Tavaria",
+		"leaderName": "Councillor Urist",
+		"adjective": ["Tavarians"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "May the blessings of heaven be upon you, O great Nebuchadnezzar, father of mighty and ancient Babylon! Young was the world when Sargon built Babylon some five thousand years ago, long did it grow and prosper, gaining its first empire the eighteenth century BC, under godlike Hammurabi, the giver of law. Although conquered by the Kassites and then by the Assyrians, Babylon endured, emerging phoenix-like from its ashes of destruction and regaining its independence despite its many enemies. Truly was Babylon the center of arts and learning in the ancient world. O Nebuchadnezzar, your empire endured but a short time after your death, falling to the mighty Persians, and then to the Greeks, until the great city was destroyed by 141 BC.",
+		"startIntroPart2": "But is Babylon indeed gone forever, great Nebuchadnezzar? Your people look to you to bring the empire back to life once more. Will you accept the challenge? Will you build a civilization that will stand the test of time?",
+		
+		"declaringWar": "Your nation threatens the Tavarian way of life!",
+		"attacked": "I assure you that this war will be hellish for you and your devil army.",
+		"defeated": "Death is all around us, it is horrifying!",
+		"introduction": "Greetings. My name is Councillor Urist of the Tavarians.",
+		
+		"neutralHello": "Hello, how can I be of service?",
+		"hateHello": "Don't start any trouble.",
+		
+		"tradeRequest": "Trading is the most comradery of arts, let us engage in it!",
+				
+		"outerColor": [66,214,221],
+		"innerColor": [213,249,255],
+		"unique": "GLORY_OF_ROME",
+		"cities": ["Gundor","Khor Molduhr","Thurngrun","Malerum","Vorrum","Nirnfarum","Bhog Darom","Num Doral","Nigolduhr","Kirnaruhm",
+			"Hal Kuldohr","Hul Malduhr","Momkuldihr","Naghdohr","Dondirth","Dharnyaruhm","Dhar Lodur","Vil Kuldir","Thug Darum","Bherntoruhm",
+			"Manalduhr","Mer Tharum","Thigdurahl","Vorndor","Gineduhr","Kharnyaruhm","Khorn Buldahr","Meghboldohr","Bugh Darahl","Daghulihm",
+			"Khildorul","Dumolduhr","Bhugloduhr","Bhorn Burimm","Horturuhm","Dirolduhr","Murndarohm","Khulgarom","Nirulihm","Gorntorhm"]
+	}
+]
