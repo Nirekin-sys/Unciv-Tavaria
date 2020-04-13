@@ -1,0 +1,12 @@
+[
+	{
+		"name": "Grand Excavacation",
+		"terrainsCanBeBuiltOn": ["Hill","Plains","Grassland"],
+		"uniqueTo": "Tavaria",
+		"turnsToBuild": 10,
+		"production": 2,
+		"techRequired": "Masonry",
+		"improvingTech": "Engineering",
+		"improvingTechStats": {"production": 1}
+	}
+]
