@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Grand Excavacation",
+		"name": "Grand Excavation",
 		"terrainsCanBeBuiltOn": ["Hill","Plains","Grassland"],
 		"uniqueTo": "Tavaria",
 		"turnsToBuild": 10,
