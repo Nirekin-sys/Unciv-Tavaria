@@ -1,0 +1,11 @@
+[
+	{
+		"name": "Great Artisan",
+		"unbuildable": true,
+		"unitType": "Civilian",
+		"replaces": "Great Artist",
+		"uniqueTo": "Tavaria",
+		"uniques": ["Can start an 8-turn golden age","Can build improvements on tiles","Can build improvement: Manufactory"],
+		"movement": 2
+	}
+]
