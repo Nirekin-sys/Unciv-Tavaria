@@ -20,7 +20,7 @@
 		"tradeRequest": "Trading is the most comradery of arts, let us engage in it!",
 				
 		"outerColor": [66,214,221],
-		"innerColor": [213,249,255],
+		"innerColor": [0,0,0],
 		"unique": "GLORY_OF_ROME",
 		"cities": ["Gundor","Khor Molduhr","Thurngrun","Malerum","Vorrum","Nirnfarum","Bhog Darom","Num Doral","Nigolduhr","Kirnaruhm",
 			"Hal Kuldohr","Hul Malduhr","Momkuldihr","Naghdohr","Dondirth","Dharnyaruhm","Dhar Lodur","Vil Kuldir","Thug Darum","Bherntoruhm",
